@@ -1,0 +1,108 @@
+1.What will print([i for i in range(3)]) output?
+
+A) (0, 1, 2)
+
+B) [0, 1, 2] ✅
+
+C) 012
+
+D) i, i, i
+
+
+2.What does *args do in a Python function?
+
+A) Skips arguments
+
+B) Makes a list of optional keyword arguments
+
+C) Accepts multiple positional arguments ✅
+
+D) Accepts default parameters
+
+
+3.Which of these is immutable?
+
+A) list
+
+B) dict
+
+C) set
+
+D) tuple ✅
+
+
+4.What is the output of bool([])?
+
+A) True
+
+B) False ✅
+
+C) Error
+
+D) None
+
+
+5.How do you handle exceptions?
+
+A) try-catch
+
+B) try-except ✅
+
+C) on-error
+
+D) try-throw
+
+
+6.Which module helps serialize objects?
+
+A) marshal
+
+B) json ✅
+
+C) os
+
+D) subprocess
+
+
+7.What does zip([1,2], ['a','b']) return?
+
+A) [(1, 'a'), (2, 'b')] ✅
+
+B) [[1, 'a'], [2, 'b']]
+
+C) {'1':'a','2':'b'}
+
+D) None
+
+
+8.List comprehension [x*x for x in range(3)] results in:
+
+A) [1, 2, 3]
+
+B) [0, 1, 4] ✅
+
+C) [1, 4, 9]
+
+D) Error
+
+
+9.Which statement is correct?
+
+A) Python uses semi-colons
+
+B) def is used for loops
+
+C) lambda creates anonymous functions ✅
+
+D) Python supports multiple inheritance only through import
+
+
+10.How is a class defined?
+
+A) define Class():
+
+B) class MyClass ✅
+
+C) defclass MyClass:
+
+D) MyClass {}

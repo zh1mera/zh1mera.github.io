@@ -1,0 +1,31 @@
+1
+What is the difference between include and require?
+Answer: require causes a fatal error if the file is missing; include only gives a warning
+2
+How do you define a function in PHP?
+Answer: Using the function keyword followed by the function name and parentheses
+3
+What is the difference between == and === in PHP?
+Answer: == compares values; === compares values and data types
+4
+How do you loop through an associative array?
+Answer: Using foreach
+5
+What is a superglobal variable in PHP?
+Answer: A built-in global variable accessible anywhere, like $_GET or $_POST
+6
+How do you handle form data sent via POST?
+Answer: Using $_POST['input_name']
+7
+What does the count() function do?
+Answer: Returns the number of elements in an array
+8
+What is the purpose of the $_SESSION superglobal?
+Answer: To store user data across multiple pages
+9
+How do you sort an array in descending order?
+Answer: Using rsort()
+10
+What does the explode() function do?
+Answer: Splits a string into an array using a specified delimiter
+

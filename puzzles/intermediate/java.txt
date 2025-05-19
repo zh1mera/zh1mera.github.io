@@ -1,0 +1,108 @@
+1.What is the default value of a boolean in Java?
+
+A) 0
+
+B) true
+
+C) false ✅
+
+D) null
+
+
+2.What keyword prevents inheritance?
+
+A) static
+
+B) final ✅
+
+C) sealed
+
+D) private
+
+
+3.Which collection does not allow duplicates?
+
+A) List
+
+B) ArrayList
+
+C) HashSet ✅
+
+D) LinkedList
+
+
+4.What is the result of 5/2 in Java?
+
+A) 2.5
+
+B) 2 ✅
+
+C) 2.0
+
+D) Error
+
+
+5.What is the parent of all classes?
+
+A) Object ✅
+
+B) Class
+
+C) Super
+
+D) Base
+
+
+6.What is method overloading?
+
+A) Same name, different return types
+
+B) Same name, different parameters ✅
+
+C) Same class, same signature
+
+D) Abstract methods
+
+
+7.Interface can contain:
+
+A) Constructors
+
+B) Static methods ✅
+
+C) Private fields
+
+D) Protected methods only
+
+
+8.What is null instanceof Object?
+
+A) true
+
+B) false ✅
+
+C) error
+
+D) null
+
+
+9.Java is:
+
+A) Interpreted only
+
+B) Compiled only
+
+C) Compiled then interpreted ✅
+
+D) Scripting language
+
+
+10.Which of these creates an object?
+
+A) Class a;
+
+B) Class a = new Class(); ✅
+
+C) object a;
+
+D) define a = Class

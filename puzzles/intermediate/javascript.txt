@@ -1,0 +1,108 @@
+1.What is the output of typeof null?
+
+A) "null"
+
+B) "object" ✅
+
+C) "undefined"
+
+D) Error
+
+
+2.What does === check?
+
+A) Type only
+
+B) Value only
+
+C) Value and type ✅
+
+D) Only objects
+
+
+3.const obj = {}; obj.prop = 5; is:
+
+A) Invalid
+
+B) Valid ✅
+
+C) Syntax error
+
+D) Frozen object
+
+
+4.Which method converts JSON string to object?
+
+A) JSON.toObject()
+
+B) JSON.parse() ✅
+
+C) JSON.convert()
+
+D) JSON.stringify()
+
+
+5.What is a closure?
+
+A) An object that closes a function
+
+B) A function that returns another function
+
+C) A function remembering its scope ✅
+
+D) A syntax for block scopes
+
+
+6.What is the result of [] + []?
+
+A) 0
+
+B) []
+
+C) "" ✅
+
+D) undefined
+
+
+7.What does Array.prototype.map() do?
+
+A) Filters array
+
+B) Modifies array
+
+C) Transforms and returns new array ✅
+
+D) Sorts array
+
+
+8.What is hoisting?
+
+A) Loading CSS
+
+B) Moving functions and vars to the top ✅
+
+C) Removing undefined variables
+
+D) Importing modules
+
+
+9.What is the result of Number('abc')?
+
+A) NaN ✅
+
+B) 0
+
+C) "abc"
+
+D) undefined
+
+
+10.Arrow functions:
+
+A) Bind their own this
+
+B) Use parent scope’s this ✅
+
+C) Create new scopes
+
+D) Don’t accept arguments
